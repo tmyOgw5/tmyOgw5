@@ -5,12 +5,18 @@
 
 
 # Tomoya Ogawa
+Graduate School of Informatics, Osaka Metropolitan University.
+
+I am currently researching the applications of AI in the medical field.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🔥 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,aws,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,react,next,figma,python,tensorflow,pytorch,flask,fastapi,go,docker,aws,azure" />
 <br>
 
 
