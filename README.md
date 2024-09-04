@@ -9,7 +9,7 @@ Graduate School of Informatics, Osaka Metropolitan University.
 
 I am currently researching the applications of AI in the medical field.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomoyaogawa/)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
