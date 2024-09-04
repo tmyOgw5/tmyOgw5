@@ -1,7 +1,30 @@
-## Hi there 👋
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=tmyOgw5" />
+</div>
+
+
+# Tomoya Ogawa
+
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🔥 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,aws,azure" />
+<br>
+
+
+<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## ⛹️‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tmyOgw5&theme=jolly&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmyOgw5&theme=jolly&layout=compact" />
+</div>
+
 
 <!--
-**tmyOgw5/tmyOgw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
