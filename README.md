@@ -1,8 +1,4 @@
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=tmyOgw5" />
-</div>
-
 
 # Tomoya Ogawa
 Graduate School of Informatics, Osaka Metropolitan University.
