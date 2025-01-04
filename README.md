@@ -12,7 +12,7 @@ I am currently researching the applications of AI in the medical field.
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🔥 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,react,next,python,tensorflow,pytorch,flask,fastapi,go,docker,aws,azure" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=ts,react,next,python,tensorflow,pytorch,flask,fastapi,go,docker,aws,azure" />
 <br>
 
 
