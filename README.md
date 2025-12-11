@@ -18,11 +18,13 @@ I am currently researching the applications of AI in the medical field.
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+<!--
 ## ⛹️‍♀️ Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tmyOgw5&theme=jolly&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmyOgw5&theme=jolly&layout=compact" />
 </div>
+-->
 
 
 <!--
